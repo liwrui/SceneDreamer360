@@ -1,0 +1,11 @@
+{
+    "text": "",
+    "neg_text": "",
+    "campath_gen": "fullscan",
+    "campath_render": "1440",
+    "model_name": null,
+    "seed": 1,
+    "diff_steps": 50,
+    "save_dir": "",
+    "image_size": "1024"
+}
