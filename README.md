@@ -3,8 +3,8 @@
 <div align="center">
 
 [**Wenrui Li**](https://liwrui.github.io/),
-[**Yapeng Mi**](https://github.com/miyapeng),
 [**Fucheng Cai**](https://github.com/HITCai),
+[**Yapeng Mi**](https://github.com/miyapeng),
 [**Zhe Yang**](https://github.com/xia-zhe),
 [**Wangmeng Zuo**](https://scholar.google.com/citations?user=rUOpCEYAAAAJ),
 [**Xingtao Wang**](https://homepage.hit.edu.cn/xtwang),
